@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.67ea309c.css",
-    "main.js": "/static/js/main.27b34155.js",
-    "static/js/787.f99caee8.chunk.js": "/static/js/787.f99caee8.chunk.js",
-    "static/media/img11.jpeg": "/static/media/img11.e57ee6f78620fef09d61.jpeg",
-    "static/media/img1.jpeg": "/static/media/img1.76c57d09727856c46672.jpeg",
-    "static/media/img31.png": "/static/media/img31.44548707abd8c12bd643.png",
-    "static/media/img2.jpeg": "/static/media/img2.858e6393b7be3eaae43c.jpeg",
-    "static/media/img22.png": "/static/media/img22.2c5def2199a7d22384d4.png",
-    "static/media/img55.jpg": "/static/media/img55.dd0f589f4942989fd970.jpg",
-    "static/media/img33.jpg": "/static/media/img33.c04ec1a06e72476e6144.jpg",
-    "static/media/img32.jpeg": "/static/media/img32.4a13cd412d5de06e214c.jpeg",
-    "index.html": "/index.html",
-    "main.67ea309c.css.map": "/static/css/main.67ea309c.css.map",
-    "main.27b34155.js.map": "/static/js/main.27b34155.js.map",
-    "787.f99caee8.chunk.js.map": "/static/js/787.f99caee8.chunk.js.map"
+    "main.css": "https://edxnitish.github.io/High-hopes-school/static/css/main.67ea309c.css",
+    "main.js": "https://edxnitish.github.io/High-hopes-school/static/js/main.02fbfa57.js",
+    "static/js/787.f99caee8.chunk.js": "https://edxnitish.github.io/High-hopes-school/static/js/787.f99caee8.chunk.js",
+    "static/media/img11.jpeg": "https://edxnitish.github.io/High-hopes-school/static/media/img11.e57ee6f78620fef09d61.jpeg",
+    "static/media/img1.jpeg": "https://edxnitish.github.io/High-hopes-school/static/media/img1.76c57d09727856c46672.jpeg",
+    "static/media/img31.png": "https://edxnitish.github.io/High-hopes-school/static/media/img31.44548707abd8c12bd643.png",
+    "static/media/img2.jpeg": "https://edxnitish.github.io/High-hopes-school/static/media/img2.858e6393b7be3eaae43c.jpeg",
+    "static/media/img22.png": "https://edxnitish.github.io/High-hopes-school/static/media/img22.2c5def2199a7d22384d4.png",
+    "static/media/img55.jpg": "https://edxnitish.github.io/High-hopes-school/static/media/img55.dd0f589f4942989fd970.jpg",
+    "static/media/img33.jpg": "https://edxnitish.github.io/High-hopes-school/static/media/img33.c04ec1a06e72476e6144.jpg",
+    "static/media/img32.jpeg": "https://edxnitish.github.io/High-hopes-school/static/media/img32.4a13cd412d5de06e214c.jpeg",
+    "index.html": "https://edxnitish.github.io/High-hopes-school/index.html",
+    "main.67ea309c.css.map": "https://edxnitish.github.io/High-hopes-school/static/css/main.67ea309c.css.map",
+    "main.02fbfa57.js.map": "https://edxnitish.github.io/High-hopes-school/static/js/main.02fbfa57.js.map",
+    "787.f99caee8.chunk.js.map": "https://edxnitish.github.io/High-hopes-school/static/js/787.f99caee8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67ea309c.css",
-    "static/js/main.27b34155.js"
+    "static/js/main.02fbfa57.js"
   ]
 }
